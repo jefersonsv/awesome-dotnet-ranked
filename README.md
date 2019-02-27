@@ -1,4 +1,4 @@
-The ranked list of 1171 awesome .NET libraries
+The ranked list of 1173 awesome .NET libraries
 # Libraries
 * [awesome ★102613](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 * [vscode ★69916](https://github.com/Microsoft/vscode) - Visual Studio Code
@@ -1167,7 +1167,9 @@ The ranked list of 1171 awesome .NET libraries
 * [CoreBDD ★6](https://github.com/stevenknox/CoreBDD) - BDD framework for xUnit.net
 * [Prometheus.Client.MetricServer ★6](https://github.com/PrometheusClientNet/Prometheus.Client.MetricServer) - MetricServer for the Prometheus.Client
 * [dnxcore-logging-logstash ★6](https://github.com/jvandevelde/dnxcore-logging-logstash) - A Logstash logging extension for .NET Core applications with UDP and Redis transports
+* [CouchDB.Client ★6](https://github.com/jefersonsv/CouchDB.Client) - CouchDB.Client
 * [Prometheus.Client.HttpRequestDurations ★5](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) - Metrics logging of request durations
 * [CakeMail.RestClient ★5](https://github.com/Jericho/CakeMail.RestClient) - .NET wrapper for the CakeMail API
+* [proxy-at-work ★5](https://github.com/jefersonsv/proxy-at-work) - Configure proxy settings such as: environment variables, windows registry and configuration files easilly
 * [kotlin-ddd-sample ★5](https://github.com/fabriciorissetto/kotlin-ddd-sample) - A sample DDD/CQRS project using KOTLIN :beer:
 * [Wire ★5](https://github.com/AsynkronIT/Wire) - Binary serializer for POCO objects
